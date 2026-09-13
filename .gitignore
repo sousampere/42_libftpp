@@ -70,3 +70,5 @@ Testing/
 libftpp.pdf
 # libftpp.md
 libftpp.md
+.vscode/
+a.out
